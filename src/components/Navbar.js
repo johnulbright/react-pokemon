@@ -1,4 +1,4 @@
-import './Navbar.css'
+import '../styles/Navbar.css'
 
 // Function name matches file name
 const Navbar = () => {
